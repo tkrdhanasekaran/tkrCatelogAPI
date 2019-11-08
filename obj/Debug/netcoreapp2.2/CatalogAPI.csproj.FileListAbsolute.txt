@@ -1,0 +1,28 @@
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.deps.json
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.json
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.dev.json
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.dll
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csprojAssemblyReference.cache
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csproj.CoreCompileInputs.cache
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cache
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cs
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfoInputs.cache
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfo.cs
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorTargetAssemblyInfo.cache
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.pdb
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.dll
+E:\Karthika\Microservices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.pdb
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.deps.json
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.json
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.dev.json
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.dll
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.pdb
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csprojAssemblyReference.cache
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csproj.CoreCompileInputs.cache
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cache
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cs
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfoInputs.cache
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfo.cs
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorTargetAssemblyInfo.cache
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.dll
+E:\Karthika\Azure\cosmos application\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.pdb
